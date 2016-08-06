@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="zap.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VideoFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIENG VIET.DAT</Value>
+    </Setting>
+    <Setting Name="SrcFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIENG VIET.src</Value>
+    </Setting>
+    <Setting Name="SabanFileLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">saban.xml</Value>
+    </Setting>
+    <Setting Name="SabanPicture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sb.jpg</Value>
+    </Setting>
+    <Setting Name="IDs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,2,3,4</Value>
+    </Setting>
+    <Setting Name="Cript" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bxa1kmfe1ntdya98mdo7hrgjzymgs4z2aezttmudkb4gxdslrynelflrgptwbwjip9nujp+1elbuhmy49jo8jg==</Value>
+    </Setting>
+    <Setting Name="numberByte" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SerialPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="BaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">19200</Value>
+    </Setting>
+    <Setting Name="DataBits" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Parity" Type="System.IO.Ports.Parity" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="StopBits" Type="System.IO.Ports.StopBits" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="ReadTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="WriteTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="VideoFileLang" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIENG VIET.DAT;TIENG ANH.DAT;TIENG PHAP.DAT</Value>
+    </Setting>
+    <Setting Name="SrcFileLang" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIENG VIET.src;TIENG ANH.src;TIENG PHAP.src</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
